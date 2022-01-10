@@ -12,6 +12,12 @@
 <p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=Owen1212055"</a></p>
 
 <h3 align="center">Feel free to get in touch!</h1>
+<p align="center">
+  <p align="center">
+    <a> <b>Discord:</b> Owen#1212</a>
+  <br>
+  <a> <b>Email:</b> dread_nutmeg_0f@icloud.com (hidden email)</a>
+</p>
 
 
 <p align="center">
