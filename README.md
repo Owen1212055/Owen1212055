@@ -5,7 +5,7 @@
 
 - I love programming in Java ❤️
 
-- Experience working with SQL based databases ✏️
+- Experience working with SQL databases ✏️
 
 - I enjoy working with and helping others 👥 
 
