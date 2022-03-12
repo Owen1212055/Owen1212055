@@ -9,7 +9,7 @@
 
 - I enjoy working with and helping others 👥 
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Owen1212055"</p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Owen1212055&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=5"</p>
 
  
 <h4 align="center">Feel free to get in touch!</h4>
