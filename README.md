@@ -5,7 +5,7 @@
 
 - I love programming in Java ❤️
 
-- You might see me on some open source repos ✏️
+- I love helping open source repos ✏️
 
 - I enjoy working with and helping others 👥 
 
