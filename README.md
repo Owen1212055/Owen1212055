@@ -15,7 +15,7 @@
 <h4 align="center">Feel free to get in touch!</h4>
 
 <p align="center">
-  <b>Discord:</b> Owen#1212
+  <b>Discord:</b> owen.zip
   <br>
   <b>Email:</b> dread_nutmeg_0f@icloud.com (hidden email)
 </p>
