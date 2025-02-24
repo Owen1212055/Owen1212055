@@ -4,8 +4,6 @@
        alt="header" 
   />
 </p>
-
-
 <h2 align="center">I'm Owen! 👋</h2>
 <p align="center">
   <em>
